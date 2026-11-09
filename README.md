@@ -1,8 +1,14 @@
 漏洞测试实验报告（Easy File Sharing Web Server 远程溢出漏洞）
+
+
+
 一、实验目的
 1.掌握使用 Nmap 对目标主机进行端口扫描、服务识别的操作方法，从扫描结果判断目标开放的服务及版本。
+
 2.掌握使用 Kali 自带的 exploit-db 漏洞库与 searchsploit 命令检索公开漏洞利用模块的方法。
+
 3.理解远程缓冲区溢出漏洞的成因，通过运行 Python 编写的 exploit 脚本，成功复现 Easy File Sharing Web Server 的远程溢出漏洞。
+
 4.复现课本 P170 7.4 内容，掌握 Metasploit 框架的基础使用方法
 
 
